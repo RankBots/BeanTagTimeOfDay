@@ -1,3 +1,4 @@
-An update will come out soon to fix bouncing!! YAYAYYYAYYAYA
-And to enable hit sounds.
+Sorry for the removal of hit sounds. It caused to many bugs to stop the flinging.
+Please forgive me.
+
 Make sure to join our discord! It can be found here: sites.google.com/view/beantag
