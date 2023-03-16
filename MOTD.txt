@@ -1,4 +1,3 @@
-No more stuttering!!! 
-No more fling???
+Did some performance updates. Flinging should be 100% gone.
 
 Make sure to join our discord! It can be found here: sites.google.com/view/beantag
