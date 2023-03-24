@@ -1,3 +1,3 @@
-The time of day github has been flagged and should be un-flagged shortly so the in-game time might be a little off.
+Github fixed it.
 
 Make sure to join our discord! It can be found here: sites.google.com/view/beantag
