@@ -1,1 +1,10 @@
-Nothing here at the moment :(
+Added the following Features:
+- New Feature (Skins)
+Added the following Skins:
+- Red Variation
+- Blue Variation
+- Deafult Variation
+Added the following Content:
+- New Dedicated Skin Room
+
+Thats it!
