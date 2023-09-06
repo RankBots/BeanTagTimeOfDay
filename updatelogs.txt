@@ -1,10 +1,16 @@
-Added the following Features:
-- New Feature (Skins)
-Added the following Skins:
-- Red Variation
-- Blue Variation
-- Deafult Variation
-Added the following Content:
-- New Dedicated Skin Room
+# New Update (2 updates in one day!!!)
+
+# Content:
+> Enabled the following cosmetics: Pencil, Sparkler
+> New skin (Paid)
+> New Limited Item section
+
+# Bug Fixes:
+> Fixed being able to glitch out the map via slip walls and slides
+> Made game more stable
+
+# Game Tweaks:
+> Made Monster Chase Range Bigger
+> Made Forest Music louder
 
 Thats it!
