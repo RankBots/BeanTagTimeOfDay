@@ -1,16 +1,19 @@
-# New Update
+# New Update!
 
 # Content:
-> Enabled the following cosmetics: Pencil, Sparkler
-> New skin (Paid)
-> New Limited Item section
+> Offsaled the following: Pencil, Force Field Skin
+> New cosmetic: Crystal
+> Revamped Caves!
+> New Cave theme song by @hortensenpick82  (Plays every hour!)
+> Made "ice" more like a slide.
 
 # Bug Fixes:
-> Fixed being able to glitch out the map via slip walls and slides
-> Made game more stable
+> Fixed being able to shoot water without watergun equipped
+> Fixed being not being able to shoot water out of left or right hand
 
 # Game Tweaks:
-> Made Monster Chase Range Bigger
-> Made Forest Music louder
+> Disabled Backroom "Rewards" (To stop Bean Crystal Farming
+
+Next Cave Theme playing <t:1694563200:R> 
 
 Thats it!
