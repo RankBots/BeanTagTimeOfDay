@@ -1,16 +1,12 @@
 # Whats new?
 
 # Content:
-> Halloween update!
-> New cosmetics (6 (5 if you exclude the re-sale of bunny ears))
-> New fetch quest for cosmetic
-> Halloween overhaul of forest and shop!
-> Disabled climbing (for re-do)
+> Added Tag Gamemode Back
 
 # Bug Fixes:
 > None
 
 # Game Tweaks:
-> Improved cosmetics (fixed stuttering)
+> None
 
-Thats it! Have fun! :ghost: 
+Thats it!
