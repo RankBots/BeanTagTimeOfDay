@@ -1,12 +1,16 @@
+New Very Tiny Update!
+
 # Whats new?
 
 # Content:
-> Added Tag Gamemode Back
+> Removed Climbing Wall(s)
+> Removed Backrooms in preparation of the new map
+> Made game less laggy
 
 # Bug Fixes:
 > None
 
 # Game Tweaks:
-> None
+> Dynamic Weather,  Time Of Day, Some other stuff I forgot lol 💀
 
 Thats it!
